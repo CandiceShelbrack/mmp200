@@ -1,0 +1,21 @@
+
+  </style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="dropbtn"><a href="index.html">home</a></button>
+  <div class="dropdown-content">
+    <a href="about.html">about</a>
+    <a href="design.html">design</a>
+    <a href="photo.html">photo</a>
+    <a href="resume.html">resume</a>
+  </div>
+</div>
+
+
+<div class="jumbotron">
+  <div class="container text-center">
+    <h1>about</h1>      
+    <p></p>
+  </div>
+</div>
